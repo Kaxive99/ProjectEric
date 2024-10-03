@@ -3,4 +3,6 @@ body {
     background-color: aqu;
     color: black;
     font-size: larger;
+    text-align: center;
+    justify-content: center;
 }
